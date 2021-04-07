@@ -1,5 +1,5 @@
 EVALUATION SOFTWARE LICENSE AGREEMENT
-IMPORTANT! 
+
 1) License to use the Crystallization Construct Designer 2 (CCD2) Software. The protein sequence analysis software (the “Software”) you seek to use is licensed only on the condition that you ("YOU") agree with Stichting Oncode Institute, with its office at Jaarbeursplein 6, 3521 AL Utrecht, NL (“ONCODE”) to the terms and conditions set forth below. PLEASE CAREFULLY READ THE TERMS OF THIS SOFTWARE LICENSE AGREEMENT (the “Agreement”). If you do not agree to the terms of this Agreement, delete and do not use the Software.
 
 2) Permission for Use.
